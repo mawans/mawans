@@ -2,7 +2,7 @@
 - 👀 I’m interested in Mobile apps and games
 - 🌱 I’m currently working on React native
 - 💞️ I’m looking to collaborate on any project in React native and unity
-- 📫 How to reach me mawansaleem@hotmail.com
+- 📫 How to reach me mawansaleem@gmail.com
 
 <!---
 mawans/mawans is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
